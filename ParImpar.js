@@ -1,9 +1,9 @@
 function numeroParoImpar(numero){
     if ( numero % 2===0) {
-        return "El numero" ,numero ,"par"
+        return "El numero " + numero + " par"
         
     } else {
-          return "El numero" ,numero ,"es impar"
+          return "El numero " + numero + " es impar"
     }
 
 }
