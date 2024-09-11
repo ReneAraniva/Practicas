@@ -12,7 +12,6 @@ function procesarPedido(pedido) {
     });
   }
   
-  // Ejemplo de uso
   procesarPedido('Papas Fritas')
     .then((mensaje) => console.log(mensaje))
     .catch((error) => console.error(error));
